@@ -10,5 +10,5 @@ match seat_type:
         print("General - Cheaper option, no reservation")
     case"luxury":
         print("Luxury - Primum seat with meals")
-    case_:
+    case"sofa":
 print("Invalide seat type")                
